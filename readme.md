@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryansh Mishra</h1>
-<h3 align="center">I am a 1x dev from dasna.</h3>
+<h3 align="center">I am a fellow learner from AKGEC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanshm&label=Profile%20views&color=0e75b6&style=flat" alt="aryanshm" /> </p>
 
@@ -7,25 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my gut health.**
-
-- 🌱 I’m currently learning **how to recover from rejection.**
-
-- 👯 I’m looking to collaborate on **zoom.**
-
-- 🤝 I’m looking for help with **vitamin deficiency.**
-
-- 👨‍💻 All of my projects are available at [my friend's github( he stole all of them )](my friend's github( he stole all of them ))
-
-- 📝 I regularly write articles on [youtube comment section.](youtube comment section.)
+- 🔭 I’m currently learning **React, React Native, Express and Machine Learning.**
 
 - 💬 Ask me about **latest monday night raw episode.**
 
-- 📫 How to reach me **my grave.**
+- 📫 How to reach me **@aryansh_mishra.10**
 
-- 📄 Know about my experiences [bhutiya kahaniya, aryansh ke saath.](bhutiya kahaniya, aryansh ke saath.)
-
-- ⚡ Fun fact **i dislike you.**
+- ⚡ Fun fact **i can't touch type.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
